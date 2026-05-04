@@ -53,6 +53,21 @@
         <mxCell id="aC_D0B4cxPjtjtELvaG8-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="stereotyp:&lt;div&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;yy tekstowe między &amp;lt;&amp;lt; ... &amp;gt;&amp;gt;, służy do&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="176" x="300" y="75" as="geometry" />
         </mxCell>
+        <mxCell id="HJh5TEkXPqzFDSXGq8uS-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="zakup gazety" vertex="1">
+          <mxGeometry height="50" width="80" x="344" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HJh5TEkXPqzFDSXGq8uS-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="234.5" as="sourcePoint" />
+            <mxPoint x="524" y="234.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJh5TEkXPqzFDSXGq8uS-5" connectable="0" parent="HJh5TEkXPqzFDSXGq8uS-4" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="&amp;lt;&amp;lt; include &amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HJh5TEkXPqzFDSXGq8uS-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="płatność" vertex="1">
+          <mxGeometry height="50" width="80" x="520" y="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
